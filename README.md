@@ -1,6 +1,6 @@
 # TerGame Launcher (Arch Linux)
 
-A terminal-based game launcher for running Windows files on Arch Linux via Wine.
+A terminal-based game launcher for running .exe files on Arch Linux via Wine.
 
 # setup, requirements and testing
 
