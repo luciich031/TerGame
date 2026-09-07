@@ -6,7 +6,7 @@ A terminal-based game launcher for running Windows files on Arch Linux via Wine.
 
 ```bash
 sudo pacman -S wine wine-mono wine-gecko dxvk-bin vkd3d-proton-bin
-chmod +x launcher.sh test.sh   
+chmod +x tergame.sh or test.sh   
 
 # Usage
 
@@ -19,4 +19,5 @@ chmod +x launcher.sh test.sh
 #have fun :))
 
 
-#ToBeFixed : tergame fails when the words are separated
+#ToBeFixed :
+tergame fails when the words are separated
