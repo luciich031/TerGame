@@ -1,3 +1,6 @@
+<img width="535" height="138" alt="image" src="https://github.com/user-attachments/assets/57b7ab2c-2fdc-4f8c-8db5-2b7811f13807" />
+
+
 # TerGame Launcher (Arch Linux)
 
 A terminal-based game launcher for running .exe files on Arch Linux via Wine.
@@ -21,3 +24,5 @@ chmod +x tergame.sh or test.sh
 
 #ToBeFixed :
 tergame fails when the words are separated
+
+
